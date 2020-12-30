@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "420228937803",
+    "firebase_url": "https://master-cooking.firebaseio.com",
+    "project_id": "master-cooking",
+    "storage_bucket": "master-cooking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420228937803:android:233912b47183eb776bb5ce",
+        "android_client_info": {
+          "package_name": "com.binarysoftltd.master_cooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420228937803-r510g8ce3ndvoqhq8vslk4fsliblghkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbhoeL1qolPu_uvDDkmOLmep1iei4SsG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420228937803-r510g8ce3ndvoqhq8vslk4fsliblghkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
