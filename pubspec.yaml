@@ -57,12 +57,34 @@ flutter:
     - assets/images/
     - assets/recipe_img/
     - assets/recipe_img/applep/
+    - assets/recipe_img/borhani/
     - assets/recipe_img/chickenb/
+    - assets/recipe_img/chickenm/
     - assets/recipe_img/chocolatec/
+    - assets/recipe_img/coffee/
     - assets/recipe_img/kacchib/
     - assets/recipe_img/pizza/
     - assets/recipe_img/roastd/
-    - assets/recipe_img/beafr/
+    - assets/recipe_img/donuts/
+    - assets/recipe_img/friedrice/
+    - assets/recipe_img/chickenfry/
+    - assets/recipe_img/chineseveg/
+    - assets/recipe_img/custard/
+    - assets/recipe_img/pooding/
+    - assets/recipe_img/shorsheilish/
+    - assets/recipe_img/kalavuna/
+    - assets/recipe_img/beefshashlik/
+    - assets/recipe_img/chawmein/
+    - assets/recipe_img/chickensharma/
+    - assets/recipe_img/chingrimalaikari/
+    - assets/recipe_img/chotpoti/
+    - assets/recipe_img/cookies/
+    - assets/recipe_img/eggchop/
+    - assets/recipe_img/fishcurry/
+    - assets/recipe_img/halim/
+    - assets/recipe_img/jilapi/
+    - assets/recipe_img/masalatea/
+    - assets/recipe_img/redvelvet/
     - assets/recipes/
 
   # An image asset can refer to one or more resolution-specific "variants", see
