@@ -6,8 +6,8 @@ The goal of this project is to build a cool UI-based recipe application where us
 In This project, Some recipes are attached build-in in order to create a cooking environment among the users.<br>
 There are 30+ recipes and each one of them has 8 to 10 different images with the procedure to cook the recipe.<br>
 User can create their own account and can fetch new recipes from the **Firebase Database** Server.<br>
-This project comes with a creative and amazing UI.<br>
-## <br>The key features of the project:<br>
+This project comes with a creative and amazing UI.
+## The key features of the project:<br>
 1. Information about daily cooking recipes
 2. Over 30+ delicious recipes with instructions.
 3. Rating and Comments on Each Recipe.
