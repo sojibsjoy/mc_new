@@ -17,23 +17,23 @@ This project comes with a creative and amazing UI.<br>
 
 ### Now, Let us see the project:
 Home Page:<br><br>
-<img src="screenshots/Picture1.png" height="400" alt="Home Page">
+<img src="screenshots/Picture1.png" height="400" alt="Home Page"><br>
 Recipe Details Page:<br><br>
-<img src="screenshots/Picture2.png" height="400" alt="Recipe Details Page">
+<img src="screenshots/Picture2.png" height="400" alt="Recipe Details Page"><br>
 Recipe Gallery Page:<br><br>
-<img src="screenshots/Picture3.png" height="400" alt="Recipe Gallery Page">
+<img src="screenshots/Picture3.png" height="400" alt="Recipe Gallery Page"><br>
 Recipe Image (in zoom):<br><br>
-<img src="screenshots/Picture4.png" height="400" alt="Recipe Image">
+<img src="screenshots/Picture4.png" height="400" alt="Recipe Image"><br>
 Recipe Review (build-in):<br><br>
-<img src="screenshots/Picture5.png" height="400" alt="Recipe Review Page">
+<img src="screenshots/Picture5.png" height="400" alt="Recipe Review Page"><br>
 User Profile (Dark Mode):<br><br>
-<img src="screenshots/Picture6.png" height="400" alt="User Profile Page (Dark)">
+<img src="screenshots/Picture6.png" height="400" alt="User Profile Page (Dark)"><br>
 User Profile (Bright Mode):<br><br>
-<img src="screenshots/Picture7.png" height="400" alt="User Profile Page (Bright)">
+<img src="screenshots/Picture7.png" height="400" alt="User Profile Page (Bright)"><br>
 Online Recipe Page:<br><br>
-<img src="screenshots/Picture8.png" height="400" alt="Online Recipe Page">
+<img src="screenshots/Picture8.png" height="400" alt="Online Recipe Page"><br>
 Online Recipe Page (cont.):<br><br>
-<img src="screenshots/Picture9.png" height="400" alt="Online Recipe Page (cont.)">
+<img src="screenshots/Picture9.png" height="400" alt="Online Recipe Page (cont.)"><br>
 <br><br>
 [N:B: This project is under development. That is why some of the features are about to update soon.]
 <br><br>
