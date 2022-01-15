@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:line_awesome_flutter/line_awesome_flutter.dart';
 import 'package:master_cooking/pages/constants.dart';
+import 'package:master_cooking/pages/home.dart';
 // import 'package:master_cooking/pages/home.dart';
 // import 'package:profile_app_ui/widgets/profile_list_item.dart';
 
@@ -72,12 +73,12 @@ class ProfileScreen extends StatelessWidget {
           ),
           SizedBox(height: kSpacingUnit.w * 3),
           Text(
-            'Md. Sojib Sarkar',
+            'John Smith ',
             style: kTitleTextStyle,
           ),
           SizedBox(height: kSpacingUnit.w * 1),
           Text(
-            'sojib.vu@gmail.com',
+            'john@example.com',
             style: kCaptionTextStyle,
           ),
           SizedBox(height: kSpacingUnit.w * 2),
@@ -134,9 +135,11 @@ class ProfileScreen extends StatelessWidget {
         SizedBox(width: kSpacingUnit.w * 3),
         GestureDetector(
           onTap: () {
-            Navigator.popUntil(
+            Navigator.push(
               context,
-              ModalRoute.withName('/'),
+              MaterialPageRoute(
+                builder: (context) => Home(),
+              ),
             );
           },
           child: Icon(

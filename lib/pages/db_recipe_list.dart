@@ -1,7 +1,7 @@
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
+// import 'package:provider/provider.dart';
 import 'package:master_cooking/models/db_recipe.dart';
 import 'package:master_cooking/pages/recipe_tile.dart';
 
@@ -13,7 +13,7 @@ class RecipeList extends StatefulWidget {
 class _RecipeListState extends State<RecipeList> {
   @override
   Widget build(BuildContext context) {
-    final recipes = Provider.of<List<OnlineRecipe>>(context);
+    // final recipes = Provider.of<List<OnlineRecipe>>(context);
 
     return Scaffold(
       backgroundColor: Colors.grey[300],
@@ -83,9 +83,11 @@ class _RecipeListState extends State<RecipeList> {
                       padding: EdgeInsets.only(top: 15.0, left: 15.0),
                       height: 125.0,
                       child: ListView.builder(
-                        itemCount: recipes.length,
+                        // itemCount: recipes.length,
+                        itemCount: 1,
                         itemBuilder: (context, index) {
-                          return RecipeTile(recipe: recipes[index]);
+                          // return RecipeTile(recipe: recipes[index]);
+                          return Text("Eror");
                         },
                         shrinkWrap: true,
                         scrollDirection: Axis.horizontal,
