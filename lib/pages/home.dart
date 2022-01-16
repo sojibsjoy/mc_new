@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:master_cooking/pages/login.dart';
 // import 'package:master_cooking/pages/constants.dart';
 // import 'package:flutter_screenutil/screenutil.dart';
 
@@ -214,8 +215,6 @@ List<Recipes> _recipeList = <Recipes>[
 ];
 
 class Home extends StatefulWidget {
-  final String userImgPath = 'assets/images/chris.jpg';
-
   @override
   _HomeState createState() => _HomeState();
 }
@@ -247,15 +246,12 @@ class _HomeState extends State<Home> {
               Navigator.push(
                 context,
                 MaterialPageRoute(
-                  builder: (context) => Profile(
-                    userImgPath: widget.userImgPath,
-                  ),
+                  builder: (context) => LoginPage(),
                 ),
               );
             },
-            child: CircleAvatar(
-              backgroundImage: AssetImage(widget.userImgPath),
-              radius: 20,
+            child: Icon(
+              Icons.person,
             ),
           ),
           Padding(
